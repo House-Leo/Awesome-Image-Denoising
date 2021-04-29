@@ -9,6 +9,7 @@
     - [2018](2018_papers.md)
     - [2019](2019_papers.md)
     - [2020](2020_papers.md)
+    - [2021](#2021)
 - [Image Denoising Workshop papers](workshops.md)
 - [Image Denoising Survey (DL-based)](survey.md)
 - [Metric](#Metric)
@@ -18,6 +19,8 @@
 Collect image denoising related papers, datasets, especially **real-world image denoising**. 
 
 I am still collecting the relevant paper, ***if you want to add your own paper on this repository, feel free to open issue or contact me*** by sending mail to  `lihao9605 [at] gmail.com`, I will update your paper ASAP.
+
+**If you like this repo, Star or Fork to support my work. Thank you.**
 
 ## Papers
 
@@ -38,6 +41,8 @@ More years papers, please check Quick navigation.
 | Pseudo-ISP        | [arxiv](https://arxiv.org/abs/2103.10234)    | [Code](https://github.com/happycaoyue/Pseudo-ISP)            | Pseudo-ISP: Learning Pseudo In-camera Signal Processing Pipeline from A Color Image Denoiser |
 | VDID              | [arxiv](https://arxiv.org/abs/2104.00965)    | [Code](https://github.com/JWSoh/VDIR)                        | Variational Deep Image Denoising                             |
 
+------
+
 ## Metric
 
 #### Commonly Used Image Quality Metric Code
@@ -48,8 +53,6 @@ More years papers, please check Quick navigation.
 
  * NIQE (Naturalness Image Quality Evaluator) [[Web]](http://live.ece.utexas.edu/research/Quality/nrqa.htm) [[Matlab Code]](http://live.ece.utexas.edu/research/Quality/nrqa.htm)[[Python Code]](https://github.com/aizvorski/video-quality/blob/master/niqe.py)
 
-
+------
 
 ***This repository is referenced from [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)***. Thanks for [ChaofWang's work](https://github.com/ChaofWang).
-
-**If you like this repo, Star or Fork to support my work. Thank you.**
